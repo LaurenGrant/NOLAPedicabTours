@@ -1362,7 +1362,7 @@
 .ui.grid > .green.row,
 .ui.grid > .green.column,
 .ui.grid > .row > .green.column {
-  background-color: #21BA45 !important;
+  background-color: #27DC94 !important;
   color: #FFFFFF;
 }
 
@@ -1402,7 +1402,7 @@
 .ui.grid > .pink.row,
 .ui.grid > .pink.column,
 .ui.grid > .row > .pink.column {
-  background-color: #E03997 !important;
+  background-color: #F35351 !important;
   color: #FFFFFF;
 }
 

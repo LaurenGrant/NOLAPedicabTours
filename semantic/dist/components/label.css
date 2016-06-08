@@ -652,7 +652,7 @@ a.ui.olive.label:hover {
 
 /* Ribbon */
 .ui.olive.ribbon.label {
-  border-color: #198f35 !important;
+  border-color: #1db377 !important;
 }
 
 /* Basic */
@@ -672,16 +672,16 @@ a.ui.basic.olive.label:hover {
 
 .ui.green.labels .label,
 .ui.green.label {
-  background-color: #21BA45 !important;
-  border-color: #21BA45 !important;
+  background-color: #27DC94 !important;
+  border-color: #27DC94 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.green.labels .label:hover,
 a.ui.green.label:hover {
-  background-color: #16ab39 !important;
-  border-color: #16ab39 !important;
+  background-color: #18d188 !important;
+  border-color: #18d188 !important;
   color: #FFFFFF !important;
 }
 
@@ -693,20 +693,20 @@ a.ui.green.label:hover {
 
 /* Ribbon */
 .ui.green.ribbon.label {
-  border-color: #198f35 !important;
+  border-color: #1db377 !important;
 }
 
 /* Basic */
 .ui.basic.green.label {
   background-color: #FFFFFF !important;
-  color: #21BA45 !important;
-  border-color: #21BA45 !important;
+  color: #27DC94 !important;
+  border-color: #27DC94 !important;
 }
 .ui.basic.green.labels a.label:hover,
 a.ui.basic.green.label:hover {
   background-color: #FFFFFF !important;
-  color: #16ab39 !important;
-  border-color: #16ab39 !important;
+  color: #18d188 !important;
+  border-color: #18d188 !important;
 }
 
 /*--- Teal ---*/
@@ -877,16 +877,16 @@ a.ui.basic.purple.label:hover {
 
 .ui.pink.labels .label,
 .ui.pink.label {
-  background-color: #E03997 !important;
-  border-color: #E03997 !important;
+  background-color: #F35351 !important;
+  border-color: #F35351 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.pink.labels .label:hover,
 a.ui.pink.label:hover {
-  background-color: #e61a8d !important;
-  border-color: #e61a8d !important;
+  background-color: #fb3230 !important;
+  border-color: #fb3230 !important;
   color: #FFFFFF !important;
 }
 
@@ -898,20 +898,20 @@ a.ui.pink.label:hover {
 
 /* Ribbon */
 .ui.pink.ribbon.label {
-  border-color: #c71f7e !important;
+  border-color: #f02421 !important;
 }
 
 /* Basic */
 .ui.basic.pink.label {
   background-color: #FFFFFF !important;
-  color: #E03997 !important;
-  border-color: #E03997 !important;
+  color: #F35351 !important;
+  border-color: #F35351 !important;
 }
 .ui.basic.pink.labels a.label:hover,
 a.ui.basic.pink.label:hover {
   background-color: #FFFFFF !important;
-  color: #e61a8d !important;
-  border-color: #e61a8d !important;
+  color: #fb3230 !important;
+  border-color: #fb3230 !important;
 }
 
 /*--- Brown ---*/

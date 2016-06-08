@@ -42,7 +42,7 @@
 /* Header */
 .ui.message .header {
   display: block;
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Josefin Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-weight: bold;
   margin: -0.14285em 0em 0rem 0em;
 }
@@ -412,10 +412,10 @@
 }
 .ui.pink.message {
   background-color: #FFE3FB;
-  color: #E03997;
+  color: #F35351;
 }
 .ui.pink.message .header {
-  color: #dd238b;
+  color: #f13b39;
 }
 .ui.brown.message {
   background-color: #F1E2D3;

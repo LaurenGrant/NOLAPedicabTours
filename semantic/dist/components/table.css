@@ -641,10 +641,10 @@
 
 /* Green */
 .ui.green.table {
-  border-top: 0.2em solid #21BA45;
+  border-top: 0.2em solid #27DC94;
 }
 .ui.inverted.green.table {
-  background-color: #21BA45 !important;
+  background-color: #27DC94 !important;
   color: #FFFFFF !important;
 }
 
@@ -686,10 +686,10 @@
 
 /* Pink */
 .ui.pink.table {
-  border-top: 0.2em solid #E03997;
+  border-top: 0.2em solid #F35351;
 }
 .ui.inverted.pink.table {
-  background-color: #E03997 !important;
+  background-color: #F35351 !important;
   color: #FFFFFF !important;
 }
 
