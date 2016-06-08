@@ -1,3 +1,26 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName          : 'Josefin Sans';
+@fontSmoothing     : antialiased;
+
+@headerFont        : 'Josefin Sans', cursive, sans-serif
+@pageFont          : @headerFont
+
+
+@googleFontName    : @fontName;
+@importGoogleFonts : false;
+@googleFontSizes   : '400'; // 300 700
+
+/*-------------------
+    Brand Colors
+--------------------*/
+@green: #27DC94;
+@pink: #F35351;
+
+@transparent          : #006E9E;
