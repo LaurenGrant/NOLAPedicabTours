@@ -6,10 +6,10 @@
        Fonts
 --------------------*/
 
-@fontName          : 'Josefin Sans';
+@fontName          : 'League Gothic';
 @fontSmoothing     : antialiased;
 
-@headerFont        : 'Josefin Sans', cursive, sans-serif
+@headerFont        : 'League Gothic', serif;
 @pageFont          : @headerFont
 
 
