@@ -6,3 +6,11 @@ $('.ui.labeled.icon.sidebar').first()
 $('.toggle.button')
   .removeClass('disabled')
 ;
+
+$('.contact').on('click', function(){
+  $('.ui.modal')
+    .modal({
+      blurring: true
+    })
+    .modal('show')
+});
