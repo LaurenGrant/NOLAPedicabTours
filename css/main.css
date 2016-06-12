@@ -17,3 +17,7 @@
 .marginTop10px {
   margin-top: 10px;
 }
+
+.ui.modal {
+  text-align: center;
+}
