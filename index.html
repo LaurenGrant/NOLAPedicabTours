@@ -8,22 +8,21 @@
       <link rel="stylesheet" type="text/css" href="css/hover.css">
     </head>
     <body>
-      <div class="ui center aligned basic attached segment">
-        <div class="ui massive transparent toggle top attached button" tabindex="0">
-          Sarah's Pedicab Tours
+      <div class="hero ui center aligned basic segment">
+        <div class="ui massive hvr-grow transparent toggle button marginTop90px" tabindex="0">
+          <h1>Sarah's Pedicab Tours</h1>
         </div> <!-- End Button -->
-        <img class="ui fluid image" src="images/sarah1.jpg">
       </div> <!-- End Hero Segment -->
        <div class="ui right sidebar vertical inverted labeled icon menu">
-        <a class="item">
+        <a id="about-me" class="item" href="#sarah">
           <i class="fa fa-star fa-2x fa-fw" aria-hidden="true"></i>
           <p class="ui pink header">A Little About Me</p>
         </a>
-        <a class="item">
+        <a id="about-nola" class="item" href="#nola">
           <i class="fa fa-music fa-2x fa-fw" aria-hidden="true"></i>
           <p class="ui pink header">A Little About New Orleans</p>
         </a>
-        <a class="item">
+        <a id="contact-me" class="item" href="#contact">
           <i class="fa fa-bicycle fa-2x fa-fw" aria-hidden="true""></i>
           <p class="ui pink header">Schedule A Tour!</p>
         </a>
@@ -31,7 +30,7 @@
 
       <!-- About Me -->
 
-      <div class="ui green center aligned padded segment">
+      <div id="sarah" class="ui green center aligned padded segment">
         <h1 class="ui header">About Me</h1>
       </div>
       <div class="ui equal width stackable middle aligned padded grid">
@@ -58,9 +57,10 @@
           <img class="ui image" src="images/sarah5.jpg">
         </div> <!-- End Column -->
       </div> <!-- End Grid -->
+
       <!-- About New Orleans -->
 
-      <div class="ui green center aligned padded segment">
+      <div id="nola" class="ui green center aligned padded segment">
         <h1 class="ui header">About New Orleans</h1>
       </div> <!-- End Segment -->
       <div class="ui doubling stackable four column centered grid">
@@ -102,9 +102,11 @@
         </div> <!-- End Column -->
       </div> <!-- End Grid -->
 
-      <div class="ui green center aligned padded segment height250Px">
+      <!-- Contact Modal -->
+
+      <div id="contact" class="ui green center aligned padded segment height250Px">
         <div class="middle aligned content marginTop90Px">
-          <h1 class="ui header contact underline">Schedule a Tour!</h1>
+          <h1 class="ui header contact underline hvr-grow">Schedule a Tour!</h1>
         </div>
       </div> <!-- End Segment -->
       <div class="ui modal">
@@ -137,7 +139,6 @@
           </div> <!-- End Button -->
         </div> <!-- End Actions -->
       </div> <!-- End Modal -->
-
     </body>
     <script src="semantic/dist/semantic.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js" integrity="sha256-ivk71nXhz9nsyFDoYoGf2sbjrR9ddh+XDkCcfZxjvcM=" crossorigin="anonymous"></script>
